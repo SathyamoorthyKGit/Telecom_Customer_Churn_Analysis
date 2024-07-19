@@ -1,4 +1,4 @@
-# Telecom Customer Analysis
+# Telecom Customer Churn Analysis
 
 This repository contains a data analysis project focusing on customer behavior and key metrics in the telecom domain. The project includes visualizations and insights derived from customer data, aimed at understanding patterns such as churn rates, service usage, and demographic distributions.
 
