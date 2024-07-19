@@ -5,8 +5,6 @@ This repository contains a data analysis project focusing on customer behavior a
 ## Project Structure
 
 - **Telecom_Data_Analysis.ipynb**: Jupyter Notebook containing the data analysis and visualizations.
-- **data/**: Folder containing any datasets used for the analysis.
-- **images/**: Folder containing images of the visualizations (if needed).
 
 ## Visualizations and Insights
 
